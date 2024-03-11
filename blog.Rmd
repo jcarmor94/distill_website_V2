@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+description: |
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+<body style="background-color:#1a1c1c;">
+
+```{r echo=FALSE, layout="l-screen-inset"}
+library("knitr")
+include_graphics("images/autum.jpg")
+```
+<p style="font-family: times, serif; font-size:40pt; text-align: center; color:#ff9900">
+    **BLOG**
+</p>
+
+<p style="font-family: accanthis; font-size:15pt; color:#ffd391; text-align: left">
+Coming soon (99/99/2099)
+</p>
+
+<p style="font-family: accanthis; font-size:13pt; color:#ffd391; text-align: left">
+</p>
+
+#<center>
+#![](images/XXX.jpg){width=25%}
+#![](images/XXX.jpg){width=25%}
+#</center>
+
+<hr style="border:0.5px solid black">
